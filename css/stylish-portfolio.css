@@ -248,3 +248,11 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.bgpag{
+    height: 100px !important;
+}
+
+.h1pag{
+    margin-top: -22px !important;
+}
